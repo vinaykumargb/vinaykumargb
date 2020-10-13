@@ -1,6 +1,6 @@
 # Hello, stranger! :wave:
 
-I am passionate about programming or coding. Currently focusing on web development. Here I will be creating some projects when I get some cool ideas. 
+I am passionate about programming or coding. Currently focusing on web development. Here, I will be creating some projects when I get some cool ideas. 
 
 ### Some random facts about me
 

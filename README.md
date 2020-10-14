@@ -10,7 +10,7 @@ I am passionate about programming or coding. Currently focusing on web developme
 ![OS](https://img.shields.io/badge/OS-Windows-blue?style=plastic&logo=windows&logoWidth=20&logoColor=white) 
 ![version-control](https://img.shields.io/badge/Version--control-Git-blue?style=plastic&logo=git&logoWidth=20&logoColor=white) 
 ![PL](https://img.shields.io/badge/Programming--language-C++-blue?style=plastic&logo=c%2B%2B&logoWidth=20&logoColor=white) 
-![PL](https://img.shields.io/badge/Programming--language-Java-blue?style=plastic&logo=java&logoWidth=20&logoColor=white) 
+![PL](https://img.shields.io/badge/Programming--language-C-blue?style=plastic&logo=c&logoWidth=20&logoColor=white) 
 ![PL](https://img.shields.io/badge/Programming--language-Java-blue?style=plastic&logo=java&logoWidth=20&logoColor=white) 
 ![PL](https://img.shields.io/badge/Programming--language-Python-blue?style=plastic&logo=python&logoWidth=20&logoColor=white) 
 ![WT](https://img.shields.io/badge/Web--Technology-React-blue?style=plastic&logo=react&logoWidth=20&logoColor=white)

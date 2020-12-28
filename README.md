@@ -4,6 +4,7 @@ I am passionate about programming or coding. Currently focusing on web developme
 
 ## :chart_with_upwards_trend: My GitHub stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vinaykumargb&show_icons=true&theme=tokyonight)
+![Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumargb&theme=tokyonight)
 
 ## :hammer_and_wrench: Technologies & Tools
 
